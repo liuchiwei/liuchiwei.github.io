@@ -1,0 +1,44 @@
+#nav {
+    width: 100px;
+    background-color: aquamarine;
+    float: left;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#banner {
+    width: 800px;
+    height: 200px;
+    background-color: beige;
+    clear: both;
+}
+
+#content {
+    width: 600px;
+    float: left;
+    clear: both;
+}
+
+#info {
+    width: 100px;
+    background-color: darksalmon;
+    float: left;
+}
+
+#footer {
+    width: 800px;
+    height: 50px;
+    background-color: blueviolet;
+    clear: both;
+}
+
+
+
+
+
+
+
+
